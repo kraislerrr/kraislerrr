@@ -31,6 +31,8 @@
 <code><img height="20" src="https://github.com/kraislerrr/cv/blob/main/icons/tool/linux.png"></code>
 <code><img height="20" src="https://github.com/kraislerrr/cv/blob/main/icons/tool/wireshark.png"></code>
 <code><img height="20" src="https://github.com/kraislerrr/cv/blob/main/icons/tool/burpsuite.png"></code>
+<code><img height="20" src="https://github.com/kraislerrr/cv/blob/main/icons/tool/ansible.png"></code>
+<code><img height="20" src="https://github.com/kraislerrr/cv/blob/main/icons/tool/zabbix.png"></code>
 
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
