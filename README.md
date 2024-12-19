@@ -1,15 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://linkedin.com/in/andrey-pavlushov">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/linkedin-circled--v1.png" />
 </a>
 <a href="https://t.me/ampvip">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/telegram-app--v1.png" />
 </a>
 <a href="https://vk.com/id16004466">
   <img align="left" alt="VKontakte" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/vk-circled.png" />
 </a>
 <a href="https://www.instagram.com/ampvip">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://github.com/kraislerrr/cv/blob/main/icons/instagram-new--v1.png" />
 </a>
 
 <br />
